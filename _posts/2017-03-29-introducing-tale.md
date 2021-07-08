@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "Introducing Tale 테스트"
 author: "Chester"
 comments: true
 tags: Tale
@@ -11,6 +11,8 @@ hidden: true
 
 
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
+
+
 
 ## Tale features
 - Compatible with GitHub Pages
