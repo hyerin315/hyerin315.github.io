@@ -14,6 +14,8 @@ Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers
 
 ## Tale features
 
+
+
 - Compatible with GitHub Pages
 - Responsive design (looks just as good on mobile)
 - Syntax highlighting, with the help of Pygments
