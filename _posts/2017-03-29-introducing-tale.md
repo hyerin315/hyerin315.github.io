@@ -14,7 +14,7 @@ Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers
 
 ## Tale features
 
-한국어 테스트입니다.
+한국어 테스트입니다. 아이콘 
 
 
 - Compatible with GitHub Pages
